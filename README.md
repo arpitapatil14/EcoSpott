@@ -1,2 +1,2 @@
 # EcoSpott
-EcoSpotter is a social media platform aimed at fostering environmental awareness and encouraging community action by enabling users to document and share instances of trash and litter in public spaces.
+EcoSpotter is a social media platform aimed at fostering environmental awareness and encouraging community action by enabling users to document and share instances of trash and litter in public spaces. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), EcoSpotter empowers individuals to take part in environmental conservation efforts by providing a platform to report, visualize, and address littering issues within their communities.
